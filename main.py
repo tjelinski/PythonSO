@@ -30,5 +30,6 @@ try:
 		print(dzielenie(liczba1,liczba2))
 	else:
 		print("nie ma takiej opcji), wybierz z zakresu 1 - 4")
+		# comment z debianSO
 expect ValueError:
 	print("podaj pprawidlowa liczbe")
